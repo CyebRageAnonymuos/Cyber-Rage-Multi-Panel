@@ -511,8 +511,6 @@ This build includes targeted latency/throughput tweaks:
 ---
 
 ## 📜 License & Credits
-
-- **Panel:** [3x-ui](https://github.com/mhsanaei/3x-ui) — powerful xray management panel
 - **Exit network:** [Tor Project](https://www.torproject.org/)
 - **Branded & maintained by:** [Cyber-Rage](https://github.com/cyberrage-ananymus) ⚡
 
