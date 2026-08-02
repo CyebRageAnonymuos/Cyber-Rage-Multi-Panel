@@ -511,8 +511,6 @@ sequenceDiagram
 ---
 
 ## 📜 لایسنس و قدردانی
-
-- **پنل:** [3x-ui](https://github.com/mhsanaei/3x-ui) — پنل مدیریت قدرتمند xray
 - **شبکه خروجی:** [پروژه تور](https://www.torproject.org/)
 - **برند و نگهداری:** [Cyber-Rage](https://github.com/cyberrage-ananymus) ⚡
 
