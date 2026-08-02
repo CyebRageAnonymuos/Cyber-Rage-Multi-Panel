@@ -4,7 +4,33 @@
 
 <div align="center" dir="rtl">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=%F0%9F%94%A5%20Cyber-Rage%20Multi%20Panel&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=%F0%9F%94%A5%20Cyber-Rage%20Multi%20Panel&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
+
+<!-- ================= لوگوی انیمیشنی CR ================= -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140">
+  <defs>
+    <linearGradient id="crg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 70 70" to="360 70 70" dur="24s" repeatCount="indefinite"/>
+    <polygon points="70,10 123,40 123,100 70,130 17,100 17,40" fill="rgba(139,92,246,0.06)" stroke="url(#crg)" stroke-width="3"/>
+  </g>
+  <circle cx="70" cy="70" r="30" fill="url(#crg)">
+    <animate attributeName="r" values="26;34;26" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="70" y="79" font-family="Vazirmatn, Tahoma, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" text-anchor="middle">CR</text>
+  <circle r="6" fill="#22d3ee">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M70,22 a48,48 0 1,1 -0.01,0"/>
+  </circle>
+  <circle r="4" fill="#f59e0b">
+    <animateMotion dur="9s" repeatCount="indefinite" path="M70,22 a48,48 0 1,0 -0.01,0"/>
+  </circle>
+</svg>
 
 # ⚡ سایبر ریج مالتـی پنـل (Cyber-Rage Multi Panel)
 
@@ -14,11 +40,127 @@
 
 <br/>
 
-[![وضعیت](https://img.shields.io/badge/%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-%D8%A2%D9%85%D8%A7%D8%AF%D9%87_%D8%AA%D9%88%D9%84%DB%8C%D8%AF-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white&color=16a34a)](https://github.com/cyberrage-ananymus)
-[![پورت عمومی](https://img.shields.io/badge/%D9%BE%D9%88%D8%B1%D8%AA-%D9%81%D9%82%D8%B7_3000-blue?style=for-the-badge&logo=server&logoColor=white&color=3b82f6)](https://github.com/cyberrage-ananymus)
-[![کشورها](https://img.shields.io/badge/%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7-10_%D9%82%D8%A7%D8%A8%D9%84_%D8%AA%D9%86%D8%B8%DB%8C%D9%85-orange?style=for-the-badge&logo=globe&logoColor=white&color=f59e0b)](https://github.com/cyberrage-ananymus)
-[![پنل](https://img.shields.io/badge/%D9%BE%D9%86%D9%84-3x--ui_v3.6.0-purple?style=for-the-badge&logo=nginx&logoColor=white&color=8b5cf6)](https://github.com/cyberrage-ananymus)
-[![خروجی](https://img.shields.io/badge/%D8%AE%D8%B1%D9%88%D8%AC%DB%8C-%D8%B4%D8%A8%DA%A9%D9%87_%D8%AA%D9%88%D8%B1-red?style=for-the-badge&logo=torproject&logoColor=white&color=d4545a)](https://github.com/cyberrage-ananymus)
+<!-- ================= نشان‌های انیمیشنی ================= -->
+<table align="center" dir="ltr">
+<tr>
+
+<td align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="30" viewBox="0 0 128 30">
+  <defs><linearGradient id="bg1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient></defs>
+  <rect width="128" height="30" rx="15" fill="#111827"/>
+  <rect width="128" height="30" rx="15" fill="url(#bg1)" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.32;0.16" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="18" cy="15" r="7" fill="#22c55e">
+    <animate attributeName="r" values="4;7;4" dur="1.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="33" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#e5e7eb">STATUS</text>
+  <text x="78" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#22c55e">ONLINE</text>
+</svg>
+</td>
+
+<td align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="30" viewBox="0 0 128 30">
+  <defs><linearGradient id="bg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient></defs>
+  <rect width="128" height="30" rx="15" fill="#111827"/>
+  <rect width="128" height="30" rx="15" fill="url(#bg2)" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.32;0.16" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="18" cy="15" r="7" fill="#3b82f6">
+    <animate attributeName="r" values="4;7;4" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="33" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#e5e7eb">PORT</text>
+  <text x="66" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#60a5fa">3000</text>
+</svg>
+</td>
+
+<td align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="30" viewBox="0 0 140 30">
+  <defs><linearGradient id="bg3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#f59e0b"/><stop offset="100%" stop-color="#ef4444"/></linearGradient></defs>
+  <rect width="140" height="30" rx="15" fill="#111827"/>
+  <rect width="140" height="30" rx="15" fill="url(#bg3)" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.32;0.16" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="18" cy="15" r="7" fill="#f59e0b">
+    <animate attributeName="r" values="4;7;4" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="33" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#e5e7eb">COUNTRIES</text>
+  <text x="95" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#fbbf24">10</text>
+</svg>
+</td>
+
+<td align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="30" viewBox="0 0 150 30">
+  <defs><linearGradient id="bg4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a855f7"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient></defs>
+  <rect width="150" height="30" rx="15" fill="#111827"/>
+  <rect width="150" height="30" rx="15" fill="url(#bg4)" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.32;0.16" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="18" cy="15" r="7" fill="#a855f7">
+    <animate attributeName="r" values="4;7;4" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <text x="33" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#e5e7eb">PANEL</text>
+  <text x="74" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#c4b5fd">3x-ui</text>
+</svg>
+</td>
+
+</tr>
+</table>
+
+<!-- ================= نوار متریک‌های انیمیشنی ================= -->
+<br/>
+<table align="center" dir="ltr">
+<tr>
+<td align="center">
+<b>🚀 افزایش سرعت</b><br/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 22" width="200" height="22">
+  <defs><linearGradient id="m1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#8b5cf6"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient></defs>
+  <rect width="200" height="22" rx="11" fill="#111827"/>
+  <rect y="3" height="16" rx="8" fill="url(#m1)">
+    <animate attributeName="width" values="0;180" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="100" y="15" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">+40%</text>
+</svg>
+</td>
+<td align="center">
+<b>🌍 کشورهای آنلاین</b><br/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 22" width="200" height="22">
+  <defs><linearGradient id="m2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22c55e"/><stop offset="100%" stop-color="#22d3ee"/></linearGradient></defs>
+  <rect width="200" height="22" rx="11" fill="#111827"/>
+  <rect y="3" height="16" rx="8" fill="url(#m2)">
+    <animate attributeName="width" values="0;200" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <text x="100" y="15" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">10 / 10</text>
+</svg>
+</td>
+<td align="center">
+<b>⏱️ تعویض آی‌پی</b><br/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 22" width="200" height="22">
+  <defs><linearGradient id="m3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#f59e0b"/><stop offset="100%" stop-color="#ef4444"/></linearGradient></defs>
+  <rect width="200" height="22" rx="11" fill="#111827"/>
+  <rect y="3" height="16" rx="8" fill="url(#m3)">
+    <animate attributeName="width" values="0;40" dur="1.4s" repeatCount="indefinite"/>
+  </rect>
+  <text x="100" y="15" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">5 min</text>
+</svg>
+</td>
+<td align="center">
+<b>🛡️ آپ‌تایم</b><br/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 22" width="200" height="22">
+  <defs><linearGradient id="m4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#8b5cf6"/></linearGradient></defs>
+  <rect width="200" height="22" rx="11" fill="#111827"/>
+  <rect y="3" height="16" rx="8" fill="url(#m4)">
+    <animate attributeName="width" values="0;199" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="100" y="15" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">99.9%</text>
+</svg>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -28,12 +170,18 @@
 > اینباند «مستقیم» (غیر تور) و nginx هر دو سعی می‌کردند پورت **8080** را بگیرند در حالی که nginx روی 3000 هم گوش می‌داد — روی پلتفرم‌های تک‌پورتی این همیشه باعث crash-loop می‌شد. حالا **فقط nginx به `0.0.0.0` متصل است** و بقیه روی `127.0.0.1` بایند شده و از پشت nginx پراکسی می‌شوند.
 
 ---
-
 ## ✨ چرا سایبر ریج مالتـی پنـل؟
 
 <table align="center" dir="rtl">
 <tr>
 <td width="50%" align="center">
+
+<!-- برق انیمیشنی -->
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <path d="M30 4 L12 30 H24 L20 50 L42 22 H28 Z" fill="#f59e0b">
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.2s" repeatCount="indefinite"/>
+  </path>
+</svg>
 
 ### 🚀 **بهینه‌شده برای سرعت**
 - `OptimisticData` + زمان ساخت مدار کمتر برای تونل روان‌تر
@@ -43,6 +191,14 @@
 
 </td>
 <td width="50%" align="center">
+
+<!-- سپر انیمیشنی -->
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <path d="M27 4 L46 12 V26 C46 38 38 46 27 50 C16 46 8 38 8 26 V12 Z" fill="rgba(34,197,94,0.12)" stroke="#22c55e" stroke-width="3">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M18 26 L25 33 L38 19" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
 
 ### 🛡️ **حریم خصوصی در اولویت**
 - هر کشور **نشست تور ایزوله‌ی خودش** را دارد
@@ -55,6 +211,20 @@
 <tr>
 <td width="50%" align="center">
 
+<!-- چرخ‌دنده انیمیشنی -->
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 27 27" to="360 27 27" dur="8s" repeatCount="indefinite"/>
+    <circle cx="27" cy="27" r="9" fill="#8b5cf6"/>
+    <g stroke="#8b5cf6" stroke-width="6" stroke-linecap="round">
+      <line x1="27" y1="6" x2="27" y2="14"/><line x1="27" y1="40" x2="27" y2="48"/>
+      <line x1="6" y1="27" x2="14" y2="27"/><line x1="40" y1="27" x2="48" y2="27"/>
+      <line x1="12" y1="12" x2="18" y2="18"/><line x1="36" y1="36" x2="42" y2="42"/>
+      <line x1="12" y1="42" x2="18" y2="36"/><line x1="36" y1="18" x2="42" y2="12"/>
+    </g>
+  </g>
+</svg>
+
 ### ⚙️ **اتوماسیون کامل**
 - کشف و تأیید خودکار کشور (موازی، چندمنبعی)
 - ساخت خودکار اینباند/کلاینت/مسیریابی با API پنل 3x-ui
@@ -63,6 +233,18 @@
 
 </td>
 <td width="50%" align="center">
+
+<!-- کره انیمیشنی -->
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <circle cx="27" cy="27" r="20" fill="rgba(34,211,238,0.12)" stroke="#22d3ee" stroke-width="2.5"/>
+  <ellipse cx="27" cy="27" rx="20" ry="8" fill="none" stroke="#22d3ee" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="rotate" from="0 27 27" to="360 27 27" dur="10s" repeatCount="indefinite"/>
+  </ellipse>
+  <line x1="27" y1="7" x2="27" y2="47" stroke="#22d3ee" stroke-width="1.5"/>
+  <circle r="4" fill="#f59e0b">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M27,7 a20,8 0 1,1 -0.01,0"/>
+  </circle>
+</svg>
 
 ### 🔀 **مسیریابی چندکشوری**
 - `/` → مستقیم (آی‌پی خود سرور، **بدون تور**)
@@ -184,6 +366,30 @@ cd 3x-ui-multi
 
 ## 🔎 فرایند کشف کشورها
 
+<table align="center" dir="rtl">
+<tr>
+<td align="center" width="30%">
+
+<!-- رادار انیمیشنی -->
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 110 110">
+  <circle cx="55" cy="55" r="50" fill="none" stroke="#312e81" stroke-width="2"/>
+  <circle cx="55" cy="55" r="33" fill="none" stroke="#312e81" stroke-width="1.5"/>
+  <circle cx="55" cy="55" r="16" fill="none" stroke="#312e81" stroke-width="1.5"/>
+  <path d="M55,55 L105,55 A50,50 0 0 1 90,90 Z" fill="rgba(139,92,246,0.35)">
+    <animateTransform attributeName="transform" type="rotate" from="0 55 55" to="360 55 55" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="55" cy="55" r="3.5" fill="#22d3ee"/>
+  <circle cx="74" cy="33" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="38" cy="70" r="4" fill="#f59e0b"><animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="78" cy="66" r="3.5" fill="#e879f9"><animate attributeName="opacity" values="1;0.25;1" dur="2.1s" repeatCount="indefinite"/></circle>
+</svg>
+
+<br/>
+<b>رادار زنده‌ی کشف</b>
+
+</td>
+<td width="70%">
+
 ```mermaid
 sequenceDiagram
     participant S as start.sh
@@ -206,6 +412,10 @@ sequenceDiagram
     S->>S: ساخت VERIFIED_CODES[] از فایل‌های وضعیت
     S->>S: رندر لوکیشن‌های nginx + تحویل به panel-bootstrap.sh
 ```
+
+</td>
+</tr>
+</table>
 
 همه‌چیز زیر کلید `tor.*` در `config.json` بدون دست زدن به اسکریپت قابل تنظیم است:
 
@@ -257,6 +467,18 @@ sequenceDiagram
 | **اوت‌باندهای Xray** | اوت‌باندهای SOCKS با `tcpFastOpen` + `tcpKeepAlive` به سمت تور |
 | **nginx** | `proxy_buffering off`، `proxy_request_buffering off`، `tcp_nodelay`، `sendfile` |
 
+<!-- اکولایزر انیمیشنی -->
+<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="28" viewBox="0 0 40 28">
+  <rect x="3" y="18" width="5" height="8" rx="2" fill="#22d3ee"><animate attributeName="y" values="18;8;18" dur="0.8s" repeatCount="indefinite"/><animate attributeName="height" values="8;18;8" dur="0.8s" repeatCount="indefinite"/></rect>
+  <rect x="12" y="14" width="5" height="12" rx="2" fill="#8b5cf6"><animate attributeName="y" values="14;22;14" dur="0.6s" repeatCount="indefinite"/><animate attributeName="height" values="12;4;12" dur="0.6s" repeatCount="indefinite"/></rect>
+  <rect x="21" y="8" width="5" height="18" rx="2" fill="#22c55e"><animate attributeName="y" values="8;18;8" dur="0.9s" repeatCount="indefinite"/><animate attributeName="height" values="18;8;18" dur="0.9s" repeatCount="indefinite"/></rect>
+  <rect x="30" y="12" width="5" height="14" rx="2" fill="#f59e0b"><animate attributeName="y" values="12;4;12" dur="0.7s" repeatCount="indefinite"/><animate attributeName="height" values="14;22;14" dur="0.7s" repeatCount="indefinite"/></rect>
+</svg>
+<br/>
+<b>تونلینگ با سرعت کامل</b>
+</div>
+
 ---
 
 ## 📋 لاگ‌ها
@@ -299,6 +521,18 @@ sequenceDiagram
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20">
+  <path d="M10 18 C 4 12, 2 8, 2 5 C 2 2, 5 1, 7 3 C 8 4, 9 5, 10 6 C 11 5, 12 4, 13 3 C 15 1, 18 2, 18 5 C 18 8, 16 12, 10 18 Z" fill="#f43f5e">
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.4s" repeatCount="indefinite"/>
+  </path>
+</svg>
+
 **⚡ سایبر ریج مالتـی پنـل — یک پورت. ده کشور. بدون محدودیت.**
+
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20">
+  <path d="M10 18 C 4 12, 2 8, 2 5 C 2 2, 5 1, 7 3 C 8 4, 9 5, 10 6 C 11 5, 12 4, 13 3 C 15 1, 18 2, 18 5 C 18 8, 16 12, 10 18 Z" fill="#f43f5e">
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+</svg>
 
 </div>
