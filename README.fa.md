@@ -34,9 +34,9 @@
 
 # ⚡ سایبر ریج مالتـی پنـل (Cyber-Rage Multi Panel)
 
-### 🌍 دروازه‌ی چندکشوری VLESS — یک پورت عمومی، ده کشور
+### 🌍 دروازه‌ی چندکشوری VLESS — یک پورت عمومی، دوازده کشور
 
-<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=16&duration=2400&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=%DB%8C%DA%A9%20%D9%BE%D9%88%D8%B1%D8%AA%D8%8C%20%D8%AF%D9%87%20%DA%A9%D8%B4%D9%88%D8%B1%20%D8%AE%D8%B1%D9%88%D8%AC%DB%8C;%D8%AA%D8%B9%D9%88%DB%8C%D8%B6%20%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1%20%D8%A2%DB%8C%E2%80%8C%D9%BE%DB%8C%20%D9%87%D8%B1%205%20%D8%AF%D9%82%DB%8C%D9%82%D9%87;%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%A8%D8%A7%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C;%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%20%D8%AF%D8%B1%20%DA%86%D9%86%D8%AF%20%D8%AF%D9%82%DB%8C%D9%82%D9%87" alt="انیمیشن تایپ" />
+<img src="https://readme-typing-svg.demolab.com?font=Vazirmatn&size=16&duration=2400&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=%DB%8C%DA%A9%20%D9%BE%D9%88%D8%B1%D8%AA%D8%8C%20%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%20%DA%A9%D8%B4%D9%88%D8%B1%20%D8%AE%D8%B1%D9%88%D8%AC%DB%8C;%D8%AA%D8%B9%D9%88%DB%8C%D8%B6%20%D8%AE%D9%88%D8%AF%DA%A9%D8%A7%D8%B1%20%D8%A2%DB%8C%E2%80%8C%D9%BE%DB%8C%20%D9%87%D8%B1%205%20%D8%AF%D9%82%DB%8C%D9%82%D9%87;%D8%B3%D8%B1%DB%8C%D8%B9%D8%AA%20%D8%A8%D8%A7%D9%84%D8%A7%20%D8%A8%D8%A7%20%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C;%D8%B1%D8%A7%D9%87%E2%80%8C%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C%20%D8%AF%D8%B1%20%DA%86%D9%86%D8%AF%20%D8%AF%D9%82%DB%8C%D9%82%D9%87" alt="انیمیشن تایپ" />
 
 <br/>
 
@@ -103,8 +103,8 @@
     <animate attributeName="r" values="4;7;4" dur="1.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <text x="33" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#e5e7eb">PANEL</text>
-  <text x="74" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#c4b5fd">3x-ui</text>
+  <text x="33" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#e5e7eb">MULTI</text>
+  <text x="74" y="19" font-family="Verdana, sans-serif" font-size="10.5" font-weight="bold" fill="#c4b5fd">PANEL</text>
 </svg>
 </td>
 
@@ -134,7 +134,7 @@
   <rect y="3" height="16" rx="8" fill="url(#m2)">
     <animate attributeName="width" values="0;200" dur="3s" repeatCount="indefinite"/>
   </rect>
-  <text x="100" y="15" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">10 / 10</text>
+  <text x="100" y="15" font-family="Verdana, sans-serif" font-size="11" font-weight="bold" fill="#ffffff" text-anchor="middle">12 / 12</text>
 </svg>
 </td>
 <td align="center">
@@ -227,7 +227,7 @@
 
 ### ⚙️ **اتوماسیون کامل**
 - کشف و تأیید خودکار کشور (موازی، چندمنبعی)
-- ساخت خودکار اینباند/کلاینت/مسیریابی با API پنل 3x-ui
+- ساخت خودکار اینباند/کلاینت/مسیریابی با API پنل
 - کشورهای ناموفق **هیچ** اینباند/کلاینتی نمی‌گیرند
 - لینک‌ها، پنل و فایل‌های وضعیت خودکار ساخته می‌شوند
 
@@ -248,7 +248,7 @@
 
 ### 🔀 **مسیریابی چندکشوری**
 - `/` → مستقیم (آی‌پی خود سرور، **بدون تور**)
-- `/in1`…`/in10` → ۱۰ خروجی از کشورهای مختلف
+- `/in1`…`/in12` → ۱۲ خروجی از کشورهای مختلف
 - فقط یک پورت عمومی **3000** — همه‌چیز پشت nginx
 - چرخش خودکار با **خوداصلاحی کشوری**
 
@@ -269,7 +269,7 @@ flowchart LR
     subgraph Container["کانتینر — فقط پورت 3000 باز است"]
         N["nginx :3000 (تنها اتصال عمومی)"]
         D["xray اینباند مستقیم 127.0.0.1:8080"]
-        P["پنل 3x-ui 127.0.0.1:2053"]
+        P["پنل Cyber-Rage 127.0.0.1:2053"]
 
         subgraph Countries["نشست‌های ایزوله هر کشور (فقط تأییدشده‌ها)"]
             direction TB
@@ -335,14 +335,14 @@ cd 3x-ui-multi
 |---|---|---|
 | `/` | 🌐 مستقیم | پیش‌فرض — آی‌پی خود سرور، بدون تور |
 | `/direct` | 🌐 مستقیم | همان `/` با مسیر صریح |
-| `/in1` … `/in10` | 🔒 خروجی کشوری | فقط اگر آن کشور در کشف تأیید شده باشد — نگاشت مسیر به کشور در `config.json` |
-| `/managepanel/` | — | پنل مدیریت 3x-ui |
+| `/in1` … `/in12` | 🔒 خروجی کشوری | فقط اگر آن کشور در کشف تأیید شده باشد — نگاشت مسیر به کشور در `config.json` |
+| `/managepanel/` | — | پنل مدیریت Cyber-Rage |
 | `/tor-status/all.json` | — | وضعیت زنده همه کشورها |
 | `/tor-status/<code>.json` | — | وضعیت زنده یک کشور (`exit_ip`، `verified`، `checked_at` و…) |
 | `/health`, `/ping` | — | بررسی سلامت |
 
 <details>
-<summary>لیست پیش‌فرض کشورها (۱۰ کشور در <code>config.json</code>)</summary>
+<summary>لیست پیش‌فرض کشورها (۱۲ کشور در <code>config.json</code>)</summary>
 <br/>
 
 | مسیر | کشور |
@@ -357,6 +357,8 @@ cd 3x-ui-multi
 | `/in8` | 🇬🇧 بریتانیا |
 | `/in9` | 🇪🇸 اسپانیا |
 | `/in10` | 🇷🇴 رومانی |
+| `/in11` | 🇰🇪 کنیا |
+| `/in12` | 🇹🇳 تونس |
 
 هر کدام را می‌توانید با ویرایش آرایه‌ی `tor.countries` در `config.json` اضافه/حذف/جابجا کنید — هیچ‌کدام از اسکریپت‌ها به طول یا مسیر خاصی وابسته نیستند.
 
@@ -504,13 +506,15 @@ sequenceDiagram
 ├── config.json              # منبع واحد حقیقت برای پورت‌ها، کشورها و تنظیمات
 ├── nginx.conf.template      # در شروع کانتینر رندر می‌شود (envsubst + لوکیشن‌های داینامیک)
 ├── start.sh                 # نقطه ورود: اجرای تور، کشف، چرخش، رندر nginx و اجرای nginx
-├── panel-bootstrap.sh       # ارتباط با API پنل 3x-ui: اینباند/کلاینت/مسیریابی کشورهای تأییدشده
+├── panel-bootstrap.sh       # ارتباط با API پنل: اینباند/کلاینت/مسیریابی کشورهای تأییدشده
 └── api-deploy-it-on-cloudflare.js  # Worker اختیاری Cloudflare: بررسی تور/آی‌پی خروجی + API جستجو
 ```
 
 ---
 
 ## 📜 لایسنس و قدردانی
+
+- **پنل:** [3x-ui](https://github.com/mhsanaei/3x-ui) — پنل مدیریت قدرتمند xray
 - **شبکه خروجی:** [پروژه تور](https://www.torproject.org/)
 - **برند و نگهداری:** [Cyber-Rage](https://github.com/cyberrage-ananymus) ⚡
 
@@ -525,7 +529,7 @@ sequenceDiagram
   </path>
 </svg>
 
-**⚡ سایبر ریج مالتـی پنـل — یک پورت. ده کشور. بدون محدودیت.**
+**⚡ سایبر ریج مالتـی پنـل — یک پورت. دوازده کشور. بدون محدودیت.**
 
 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 20 20">
   <path d="M10 18 C 4 12, 2 8, 2 5 C 2 2, 5 1, 7 3 C 8 4, 9 5, 10 6 C 11 5, 12 4, 13 3 C 15 1, 18 2, 18 5 C 18 8, 16 12, 10 18 Z" fill="#f43f5e">

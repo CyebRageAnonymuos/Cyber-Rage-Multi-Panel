@@ -1,7 +1,7 @@
 #!/bin/bash
 set -u
 
-echo "🚀 Starting X-UI + Tor (with Direct non-Tor default) + nginx reverse proxy..."
+echo "🚀 Starting Cyber-Rage Multi Panel (X-UI + Tor multi-country gateway + nginx reverse proxy)..."
 
 CONFIG_FILE="/etc/x-ui/config.json"
 if [ ! -f "$CONFIG_FILE" ]; then
@@ -251,6 +251,9 @@ EnforceDistinctSubnets 1
 NumEntryGuards 8
 NumDirectoryGuards 6
 CircuitBuildTimeout 90
+LearnCircuitBuildTimeout 0
+OptimisticData 1
+ConnectionPadding 0
 KeepalivePeriod 600
 NewCircuitPeriod 120
 MaxCircuitDirtiness 120

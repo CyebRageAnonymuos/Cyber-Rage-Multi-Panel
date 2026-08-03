@@ -1,10 +1,15 @@
 
 worker_processes auto;
-events { worker_connections 1024; }
+events { worker_connections 2048; }
 
 http {
     include       /etc/nginx/mime.types;
     default_type  application/octet-stream;
+
+    sendfile on;
+    tcp_nopush on;
+    tcp_nodelay on;
+    keepalive_timeout 65;
 
     client_header_buffer_size 16k;
     large_client_header_buffers 4 32k;
@@ -45,7 +50,7 @@ http {
             add_header Cache-Control "no-store";
         }
 
-        # ---- 3x-ui admin panel -----------------------------------------------
+        # ---- Cyber-Rage admin panel -----------------------------------------
         location /managepanel/ {
             proxy_pass http://127.0.0.1:2053/managepanel/;
             proxy_http_version 1.1;
